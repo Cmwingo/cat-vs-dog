@@ -15,3 +15,26 @@ img {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.col-md-12 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.col-md-12 img {
+  float: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#fight {
+  display: none;
+}
